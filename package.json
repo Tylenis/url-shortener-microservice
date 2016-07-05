@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "coming soon"
+    "url": "https://github.com/Tylenis/url-shortener-microservice"
   },
   "scripts": {
   "start": "node server.js"
